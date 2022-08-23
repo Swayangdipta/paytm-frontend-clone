@@ -2,7 +2,7 @@
 
 ![Paytm frontend clone](./Screenshots/1b.PNG)
 
-This is the 15th Project in the HTML & CSS Series.
+## This is the [Paytm.com](https://paytm.com/) frontend clone built using HTML & Tailwind CSS.
 
 > This project helped me to learn and a understand Tailwind CSS. I Learned a lot about tailwind and i can build most of the web pages beautiful and responsive using this.
 
